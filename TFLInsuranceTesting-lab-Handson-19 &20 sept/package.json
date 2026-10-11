@@ -1,0 +1,18 @@
+{
+  "name": "tflinsurancetesting-lab-handson",
+  "version": "1.0.0",
+  "description": "Unit testing insurance policy using Node.js and Jest",
+  "description": "Insurance business rule unit testing using Node.js and Jest",
+  "main": "policy.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"  
+  }
+}

@@ -1,0 +1,40 @@
+[
+    {
+        "name": "John Doe",
+        "position": "Software Engineer",
+        "salary": 90000,
+        "tax": 15000
+    },
+    {
+        "name": "Jane Smith",
+        "position": "Data Scientist",
+        "salary": 95000,
+        "tax": 16000
+    },
+    {
+        "name": "Emily Johnson",
+        "position": "Product Manager",
+        "salary": 105000,
+        "tax": 18000
+    },
+    
+    {
+        "name": "Michael Brown",
+        "position": "UX Designer",
+        "salary": 85000,
+        "tax": 14000
+    },
+    {
+        "name": "Sarah Davis",
+        "position": "DevOps Engineer",
+        "salary": 92000,
+        "tax": 15500
+    },
+    {
+        "name": "David Wilson",
+        "position": "QA Engineer",
+        "salary": 80000,
+        "tax": 13000
+    }
+
+]

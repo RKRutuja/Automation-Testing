@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Ravi Tambade",
+    "policyid": "POL1001",
+    "policy_type": "Health Insurance",
+    "sum_assured": 500000,
+    "premium": 18500,
+    "status": "Active",
+    "start_date": "2026-01-15",
+    "end_date": "2027-01-14",
+    "nominee": "Anita Tambade"
+  },
+  {
+    "name": "Priya Sharma",
+    "policyid": "POL1002",
+    "policy_type": "Life Insurance",
+    "sum_assured": 1000000,
+    "premium": 24000,
+    "status": "Active",
+    "start_date": "2026-02-01",
+    "end_date": "2027-01-31",
+    "nominee": "Rahul Sharma"
+  },
+  {
+    "name": "Amit Patil",
+    "policyid": "POL1003",
+    "policy_type": "Health Insurance",
+    "sum_assured": 750000,
+    "premium": 22000,
+    "status": "Active",
+    "start_date": "2026-02-10",
+    "end_date": "2027-02-09",
+    "nominee": "Sneha Patil"
+  },
+  {
+    "name": "Sneha Kulkarni",
+    "policyid": "POL1004",
+    "policy_type": "Motor Insurance",
+    "sum_assured": 600000,
+    "premium": 14500,
+    "status": "Active",
+    "start_date": "2026-03-05",
+    "end_date": "2027-03-04",
+    "nominee": "Vivek Kulkarni"
+  },
+  {
+    "name": "Vikas Joshi",
+    "policyid": "POL1005",
+    "policy_type": "Life Insurance",
+    "sum_assured": 2000000,
+    "premium": 42000,
+    "status": "Active",
+    "start_date": "2026-03-12",
+    "end_date": "2027-03-11",
+    "nominee": "Meena Joshi"
+  },
+  {
+    "name": "Neha Deshmukh",
+    "policyid": "POL1006",
+    "policy_type": "Health Insurance",
+    "sum_assured": 500000,
+    "premium": 17500,
+    "status": "Active",
+    "start_date": "2026-03-20",
+    "end_date": "2027-03-19",
+    "nominee": "Sanjay Deshmukh"
+  },
+  {
+    "name": "Suresh Kumar",
+    "policyid": "POL1007",
+    "policy_type": "Life Insurance",
+    "sum_assured": 1500000,
+    "premium": 33000,
+    "status": "Active",
+    "start_date": "2026-04-01",
+    "end_date": "2027-03-31",
+    "nominee": "Lakshmi Kumar"
+  },
+  {
+    "name": "Anjali Verma",
+    "policyid": "POL1008",
+    "policy_type": "Health Insurance",
+    "sum_assured": 1000000,
+    "premium": 28500,
+    "status": "Active",
+    "start_date": "2026-04-08",
+    "end_date": "2027-04-07",
+    "nominee": "Rohit Verma"
+  },
+  {
+    "name": "Kiran Shinde",
+    "policyid": "POL1009",
+    "policy_type": "Motor Insurance",
+    "sum_assured": 800000,
+    "premium": 16500,
+    "status": "Active",
+    "start_date": "2026-04-15",
+    "end_date": "2027-04-14",
+    "nominee": "Pooja Shinde"
+  },
+  {
+    "name": "Meera Shah",
+    "policyid": "POL1010",
+    "policy_type": "Life Insurance",
+    "sum_assured": 2500000,
+    "premium": 51000,
+    "status": "Active",
+    "start_date": "2026-04-22",
+    "end_date": "2027-04-21",
+    "nominee": "Raj Shah"
+  },
+  {
+    "name": "Rahul Jadhav",
+    "policyid": "POL1011",
+    "policy_type": "Health Insurance",
+    "sum_assured": 750000,
+    "premium": 21500,
+    "status": "Active",
+    "start_date": "2026-05-01",
+    "end_date": "2027-04-30",
+    "nominee": "Swati Jadhav"
+  },
+  {
+    "name": "Pooja Nair",
+    "policyid": "POL1012",
+    "policy_type": "Life Insurance",
+    "sum_assured": 1200000,
+    "premium": 27500,
+    "status": "Active",
+    "start_date": "2026-05-10",
+    "end_date": "2027-05-09",
+    "nominee": "Arjun Nair"
+  },
+  {
+    "name": "Arjun Singh",
+    "policyid": "POL1013",
+    "policy_type": "Health Insurance",
+    "sum_assured": 500000,
+    "premium": 19000,
+    "status": "Active",
+    "start_date": "2026-05-18",
+    "end_date": "2027-05-17",
+    "nominee": "Kavita Singh"
+  },
+  {
+    "name": "Kavita Rao",
+    "policyid": "POL1014",
+    "policy_type": "Motor Insurance",
+    "sum_assured": 900000,
+    "premium": 18000,
+    "status": "Active",
+    "start_date": "2026-05-25",
+    "end_date": "2027-05-24",
+    "nominee": "Mahesh Rao"
+  },
+  {
+    "name": "Mahesh Pawar",
+    "policyid": "POL1015",
+    "policy_type": "Life Insurance",
+    "sum_assured": 1800000,
+    "premium": 39000,
+    "status": "Active",
+    "start_date": "2026-06-01",
+    "end_date": "2027-05-31",
+    "nominee": "Asha Pawar"
+  },
+  {
+    "name": "Asha More",
+    "policyid": "POL1016",
+    "policy_type": "Health Insurance",
+    "sum_assured": 1000000,
+    "premium": 30000,
+    "status": "Active",
+    "start_date": "2026-06-10",
+    "end_date": "2027-06-09",
+    "nominee": "Nitin More"
+  },
+  {
+    "name": "Nitin Gupta",
+    "policyid": "POL1017",
+    "policy_type": "Life Insurance",
+    "sum_assured": 3000000,
+    "premium": 62000,
+    "status": "Active",
+    "start_date": "2026-06-20",
+    "end_date": "2027-06-19",
+    "nominee": "Renu Gupta"
+  },
+  {
+    "name": "Renu Joshi",
+    "policyid": "POL1018",
+    "policy_type": "Health Insurance",
+    "sum_assured": 750000,
+    "premium": 23500,
+    "status": "Active",
+    "start_date": "2026-07-01",
+    "end_date": "2027-06-30",
+    "nominee": "Aakash Joshi"
+  },
+  {
+    "name": "Aakash Bhosale",
+    "policyid": "POL1019",
+    "policy_type": "Motor Insurance",
+    "sum_assured": 700000,
+    "premium": 15500,
+    "status": "Active",
+    "start_date": "2026-07-15",
+    "end_date": "2027-07-14",
+    "nominee": "Riya Bhosale"
+  },
+  {
+    "name": "Riya Bhosale",
+    "policyid": "POL1020",
+    "policy_type": "Life Insurance",
+    "sum_assured": 2000000,
+    "premium": 45000,
+    "status": "Active",
+    "start_date": "2026-08-01",
+    "end_date": "2027-07-31",
+    "nominee": "Aakash Bhosale"
+  }
+]

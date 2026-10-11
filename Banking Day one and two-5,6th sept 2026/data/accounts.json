@@ -1,0 +1,72 @@
+[
+    {
+      "accountNumber": "100000001",
+      "customerName": "Aarav Sharma",
+      "accountType": "Savings",
+      "balance": 75000.50,
+      "interestRate": 4.0
+    },
+    {
+      "accountNumber": "100000002",
+      "customerName": "Priya Patel",
+      "accountType": "Current",
+      "balance": 125000.00,
+      "interestRate": 3.5
+    },
+    {
+      "accountNumber": "100000003",
+      "customerName": "Rohan Deshmukh",
+      "accountType": "Savings",
+      "balance": 45250.75,
+      "interestRate": 4.0
+    },
+    {
+      "accountNumber": "100000004",
+      "customerName": "Ananya Kulkarni",
+      "accountType": "Salary",
+      "balance": 98500.25,
+      "interestRate": 4.5
+    },
+    {
+      "accountNumber": "100000005",
+      "customerName": "Vikram Joshi",
+      "accountType": "Savings",
+      "balance": 150000.00,
+      "interestRate": 4.0
+    },
+    {
+      "accountNumber": "100000006",
+      "customerName": "Sneha Mehta",
+      "accountType": "Current",
+      "balance": 87500.80,
+      "interestRate": 3.5
+    },
+    {
+      "accountNumber": "100000007",
+      "customerName": "Aditya Nair",
+      "accountType": "Savings",
+      "balance": 63200.40,
+      "interestRate": 4.0
+    },
+    {
+      "accountNumber": "100000008",
+      "customerName": "Neha Singh",
+      "accountType": "Salary",
+      "balance": 112750.00,
+      "interestRate": 4.5
+    },
+    {
+      "accountNumber": "100000009",
+      "customerName": "Karan Shah",
+      "accountType": "Savings",
+      "balance": 38900.60,
+      "interestRate": 4.0
+    },
+    {
+      "accountNumber": "100000010",
+      "customerName": "Meera Iyer",
+      "accountType": "Current",
+      "balance": 210000.00,
+      "interestRate": 3.5
+    }
+]

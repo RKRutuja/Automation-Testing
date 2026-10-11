@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Ravi",
+    "age": 25,
+    "address": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pin": 411009
+    },
+    "salary": {
+      "basic": 50000,
+      "hra": 10000
+    },
+    "academic": {
+      "degree": "BE",
+      "college": "PCCOE",
+      "year": 2020
+    },
+    "performance": {
+      "year": 2023,
+      "rating": 4.5
+    }
+  },
+  {
+    "name": "Priya",
+    "age": 24,
+    "address": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pin": 400001
+    },
+    "salary": {
+      "basic": 48000,
+      "hra": 9500
+    },
+    "academic": {
+      "degree": "BTech",
+      "college": "VJTI",
+      "year": 2021
+    },
+    "performance": {
+      "year": 2023,
+      "rating": 4.2
+    }
+  },
+  {
+    "name": "Amit",
+    "age": 27,
+    "address": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pin": 560001
+    },
+    "salary": {
+      "basic": 65000,
+      "hra": 13000
+    },
+    "academic": {
+      "degree": "BE",
+      "college": "RVCE",
+      "year": 2019
+    },
+    "performance": {
+      "year": 2023,
+      "rating": 4.7
+    }
+  },
+  {
+    "name": "Sneha",
+    "age": 26,
+    "address": {
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "pin": 422001
+    },
+    "salary": {
+      "basic": 52000,
+      "hra": 10500
+    },
+    "academic": {
+      "degree": "MCA",
+      "college": "KTHM College",
+      "year": 2020
+    },
+    "performance": {
+      "year": 2023,
+      "rating": 4.4
+    }
+  },
+  {
+    "name": "Vikas",
+    "age": 29,
+    "address": {
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pin": 500001
+    },
+    "salary": {
+      "basic": 72000,
+      "hra": 15000
+    },
+    "academic": {
+      "degree": "BTech",
+      "college": "JNTUH",
+      "year": 2018
+    },
+    "performance": {
+      "year": 2023,
+      "rating": 4.8
+    }
+  },
+  {
+    "name": "Neha",
+    "age": 23,
+    "address": {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "pin": 440001
+    },
+    "salary": {
+      "basic": 45000,
+      "hra": 9000
+    },
+    "academic": {
+      "degree": "BE",
+      "college": "YCCE",
+      "year": 2021
+    },
+    "performance": {
+      "year": 2023,
+      "rating": 4.1
+    }
+  },
+  {
+    "name": "Suresh",
+    "age": 31,
+    "address": {
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pin": 600001
+    },
+    "salary": {
+      "basic": 80000,
+      "hra": 16000
+    },
+    "academic": {
+      "degree": "ME",
+      "college": "Anna University",
+      "year": 2017
+    },
+    "performance": {
+      "year": 2023,
+      "rating": 4.9
+    }
+  },
+  {
+    "name": "Anjali",
+    "age": 28,
+    "address": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "pin": 110001
+    },
+    "salary": {
+      "basic": 68000,
+      "hra": 14000
+    },
+    "academic": {
+      "degree": "BTech",
+      "college": "DTU",
+      "year": 2019
+    },
+    "performance": {
+      "year": 2023,
+      "rating": 4.6
+    }
+  },
+  {
+    "name": "Kiran",
+    "age": 26,
+    "address": {
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "pin": 431001
+    },
+    "salary": {
+      "basic": 55000,
+      "hra": 11000
+    },
+    "academic": {
+      "degree": "BE",
+      "college": "GECA",
+      "year": 2020
+    },
+    "performance": {
+      "year": 2023,
+      "rating": 4.3
+    }
+  },
+  {
+    "name": "Meera",
+    "age": 30,
+    "address": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "pin": 380001
+    },
+    "salary": {
+      "basic": 75000,
+      "hra": 15000
+    },
+    "academic": {
+      "degree": "MTech",
+      "college": "Nirma University",
+      "year": 2018
+    },
+    "performance": {
+      "year": 2023,
+      "rating": 4.7
+    }
+  }
+]
